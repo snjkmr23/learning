@@ -1,3 +1,2 @@
 welcome to GIT
 This is QT git session
-THis is 2nd practice
