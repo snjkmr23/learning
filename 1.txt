@@ -1,2 +1,3 @@
 welcome to GIT
 This is QT git session
+editing 1.txt file for mearging testing with different files
